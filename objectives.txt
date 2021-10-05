@@ -1,0 +1,147 @@
+bingo size is recommended 4 or 5
+box size is recommended 5 or 6
+bingo_size = 5
+box_size = 6
+keep_json_file_checked = False
+
+for every catagorie there should be ...objectives: <- like this
+and then objectives bellow
+
+I recommend putting easier -> harder catagories so some text makes sence
+(when you don't have enough objectives it moves to a harder catagorie and once it reaches the hardest catagorie it goes to easier catagories)
+(medium -> hard -> very hard -> easy -> very easy)
+
+you can only create/import bingo.json files when you have bingo size 5
+
+if you have a bingo.json file (with correct formating) then you can import it directly (you don't even need the same code/objectives.txt)
+
+easy objectives:
+Anatomical Learnin' Perk
+Appalachian Skull Whisperin' Perk
+Friend of Horses Perk
+Glutton for Punishment Perk
+Green Thumb Perk
+Kurtzian Philosopher Perk
+Kurtzian Physique Perk
+Master of Flushing Perk
+Minesplainer Perk
+Mostly Scabs Perk
+Mycology Yourcology Perk
+Silver Tongue Perk
+Spittoon Hand Perk
+White Hair (2 Nex-Mex Books)
+Shovel all of The Big Apple
+Complete all 5 Jail Quests
+Open Hot Doug's Hot Dogs
+Read Every Plaque in Shaggy Dog Cave
+Defeat an Enemy in a Singular Hit from full HP
+Have an Angry Level of 3
+Visit 20 Different Locations
+Give the Broken Legs Pill to the Broken Legs Man
+Create Buffalo Buffalo Buffalo Bill
+Complete all 4 Chef Quests
+Consume 6 Items that fill the Stomach, Liver, and/or Spleen in One Day
+
+medium objectives:
+Cowrruption Perk
+Thin Blood Perk (4 Nex-Mex Books)
+Heart of Stone Perk
+Heavy Trigger Finger Perk
+Kellogg Brand Purity Perk
+Kurtzian Charm Perk
+Percussive Maintenance Perk
+Song of Spheres Perk
+Spit-Free Perk
+Unlimited Bones Perk
+Obtain a Stick of Old Dynamite
+Make 2 of the 8 Rings at Jeweler's Cabin
+Give Norton any Crown
+Open Liquid Bread Brewing Co
+Open Tony's Boots
+Open Murray's Curiosity & Bean
+Open Grady's Fine Leather Goods
+Open Alexandria's Bookstore
+Obtain the Ghostwood Visitor's ID
+Possess an Exact Total of 1234 Meat
+Win a Fight in Region H (Top Left of Map)
+Discover the Necromancer's Tower
+Throw something into the pit at Jumbleneck Mine
+Obtain all 3 Small Plushes from The Circus
+Obtain the Worry Stone
+Obtain 10 Unique Hats
+Have a Maximum of 100 HP or Higher
+Have a Starting Amount of 10 AP or Higher
+Have a Speed of 25 or Higher
+Recover all 3 Skeletons for the Petting Cemetery
+Win a battle in 5 Grinding Locations
+Defeat all 3 Saints in the Old Mission
+Visit 40 Different Locations
+Search all 7 Spittoons
+Help Cactus Bill find a Wife
+Defeat one Hellcow, Goblin, El Vibrato Drone, Skeleton, and Snake
+Get the Energized! Effect
+Consume 9 Items that fill the Stomach, Liver, and/or Spleen in One Day
+Brew the Perfect Cup of Coffee
+Recover all 3 Jelly Bean Jars for Roy Bean
+Enter all 8 Mines on the Map
+Obtain the Ghost Flower from the Ghost of Rebecca Smith
+Craft a Tier 3 Item from the crafting of your Class
+Possess a minimum of 10,000 Meat
+Obtain the Branding Ring (10 Rancher Crates)
+Obtain the Caged Canary (6 Mining Crates)
+Obtain the Military School Class Ring (10 Military Crates)
+Obtain the Medical Gun (6 Medical Crates)
+Obtain the Shimmering Pocket Square (25 Graves)
+Assemble 4 Crates with Hammer and Nails
+Defeat an Enemy in a Singular Hit from full HP with a Basic Melee or Gun Attack
+Return the Bracelet to the Complaints Clerk at Alamo Rent A Mule
+Obtain all Skills from the Book of your Class
+Learn Lockpickin' Foragin' and Dickerin'
+Discover the Terrible Secret of Cotton Candy
+Consume 3 Different Goblin Foods in One Day
+Consume All 6 Cow Consumables in One Day
+Achieve Speech Skill Level 4
+Have 6 Different Units on your Side of a Combat
+End a Combat Encounter with 1 HP Remaining
+Defeat the Skeleton of Dave B
+Consume 2 Jars of Moonshine in One Day
+Have all 3 Machines at the Perfessor's House
+Use Loco Weed Extract
+Clear out all Cultists in Madness Maw Mine
+Take no Damage from a Normally Damaging Enemy Attack in Region H (Top Left of Map)
+Lose a Fight without Surrendering or Being Damaged by an Enemy
+Complete all of the Mayor's Quests for Breadwood
+Defeat the Gherkin Brothers in Combat (Abandoned Pickle Factory)
+Obtain a Total of 10 Different Perks
+Destroy the Skeleton Soldiers at Fort Alldead
+Deal 100 Damage in a Single Turn to a Single Target
+Hold 5 Stock Certificates
+Obtain the El Vibrato Ring (7 Caches)
+Give Ellsbury 10 Laudanum
+
+hard objectives:
+Expert Silversmithin' Perk
+Clouded Eyes Perk (6 Nex-Mex Books)
+Defeat the Necromancer
+Contain Roberto
+Trap Duke Bovicus
+Defeat Norton on the Train
+Obtain all 3 Big Plushes from The Circus
+Make 4 of the 8 Rings at Jeweler's Cabin
+Open all 6 Stores in Dirtwater
+Acquire a Bottle of Ghost Whiskey
+Power all 9 El Vibrato Monoliths that are not Random Encounters
+Have at Least 100 in an M-Stat
+Assemble all 5 Members of the Jewel Saloon's Band
+Obtain 30 Unique Hats
+Discover Curly's Treasure
+Apply all 7 Snakeskins to Hats
+Visit 60 Different Locations
+Clear out all Cultists in Deepest Delve Mine
+Consume 12 that fill the Stomach, Liver, and/or Spleen in One Day
+Solve all Problems at Fort Unnecessary
+Create the Golden Tooth Crown
+Obtain the Arcane Geode Hat
+Win A Battle at 10 Different Grinding Locations
+Learn every word in the El Vibrato Language
+Have 100% Resistance or Higher to Any Element
