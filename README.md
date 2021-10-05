@@ -12,4 +12,4 @@ you can generate a JSON file for https://www.bingosync.com/
 
 you can also load from a JSON file
 
-(the compiled.zip contains the exe and all the files)
+(the *compiled.zip* contains the exe and all the files)
